@@ -21,7 +21,7 @@ const Home: NextPage = () => {
         <div className="mt-3 grid gap-3 pt-3 text-center md:grid-cols-3 lg:w-2/3">
           <TechnologyCard
             name="NextJS"
-            description="The React framework for production"
+            description="The React frameworkhi for production"
             documentation="https://nextjs.org/"
           />
           <TechnologyCard
